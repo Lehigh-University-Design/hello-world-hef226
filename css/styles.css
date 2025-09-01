@@ -1,12 +1,21 @@
 body{
-background-color:rgb(255, 36, 197)
+background-color:rgb(255, 36, 197);
 }
 h1{
-color:white
+    color:white;
+    font-family: "fira-sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
 }
 p{
-    color:white
+    color:white;
+    font-family: "fira-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 a {
-    color:white
+    color:white;
+    font-family: "fira-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
